@@ -1,0 +1,10 @@
+{
+  "conversation": "https://www.ibm.com/watson/developercloud/doc/conversation/index.html",
+  "entity": "https://www.ibm.com/watson/developercloud/doc/conversation/entities.html",
+  "understanding": "https://www.ibm.com/watson/developercloud/doc/conversation/logs.html",
+  "intent": "https://www.ibm.com/watson/developercloud/doc/conversation/intents.html",
+  "workspace": "https://www.ibm.com/watson/developercloud/doc/conversation/configure-workspace.html",
+  "documentation": "https://www.ibm.com/watson/developercloud/doc/conversation/tutorial.html",
+  "start": "https://www.ibm.com/watson/developercloud/doc/conversation/getting-started.html",
+  "dialog": "https://www.ibm.com/watson/developercloud/doc/conversation/dialog-build.html"
+}
